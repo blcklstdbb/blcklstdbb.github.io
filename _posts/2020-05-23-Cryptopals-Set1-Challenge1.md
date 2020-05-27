@@ -28,7 +28,7 @@ With an important clue of "Always operate on raw bytes, never on encoded strings
 b"I'm killing your brain like a poisonous mushroom"
 ```
 
-![](assets/images/memes/meme-aww-yeah.jpg =250x250)
+![](/assets/images/memes/meme-aww-yeah.jpg =250x250)
 
 Now we're getting somewhere! After that I slapped together this piece of code:
 
